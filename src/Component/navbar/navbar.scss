@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  // background-color: aqua;
+
+  .left {
+    flex: 3;
+    background-color: burlywood;
+  }
+  .left {
+    flex: 2;
+    background-color: rgb(135, 222, 168);
+  }
+}

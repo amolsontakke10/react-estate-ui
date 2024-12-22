@@ -1,3 +1,4 @@
+import Navbar from "./Component/navbar/Navbar";
 import "./layout.scss";
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
     <>
       {/* <h1>Amol sontakke</h1> */}
       <div className="layout">
-        <h1>hello</h1>
+        <Navbar></Navbar>
       </div>
     </>
   );
